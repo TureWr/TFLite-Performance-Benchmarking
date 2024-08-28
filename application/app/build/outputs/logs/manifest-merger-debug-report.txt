@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a2519193bc86110df1bbd41654496322\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b92bc90cd71f6edf7dc17f7ed3a543d2\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\e9ea3a64603d36740c2999c7666273b6\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\c0a01d767ff960ced39158512c4d0300\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8bfed56ec7203a99f75358fc7d21444a\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f5c005035bd1022babf8cd1b47d577d0\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9b3f044110935d4a3de225dd29810ab4\transformed\navigation-ui-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\078df766e4172a34903a36313c0b6d32\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\de3001166819ef545adf518f26e8a4ca\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\e24cfe36a748683966f9b87f47ae7f74\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\93e987abbe0f3ba5d1bce4ab7ff22673\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f102fe3b21260b5ade974f4988fcdfbd\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\7e16e120d09d54e709fff9f2d1eeb410\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9c9ad19a939462c3f80fe16ca3295264\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\db8214b548d476c87c10855c62528893\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1d1a5ffcf115b923a225d18854943eef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2b774add894dd27cbb56761e259983ad\transformed\camera-view-1.2.0-alpha04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\4c78174903e8184605b153ccc79429cb\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\65a3bc091293069031807520494fc44f\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9d09eed98cab1fd305d17be5c35db03f\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\ff0af6f7f4f49c12db29dd3235eb3e45\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b4e68d38005540b18850b6f7e49545f9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\def9b1cc6fa734bcaf32f6489708c642\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\418fc04fed6cff081365da5c20107a8a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\ba57270ac1f25ff87146b710306267b9\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fe795e1c12ac6b8b72689b80f5c5038f\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0b44d5b4d7f302f9532e138f58cea40a\transformed\camera-lifecycle-1.2.0-alpha04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:17:1-36:12
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\243ad0090f9e85671be8f5d9db612ea5\transformed\tensorflow-lite-2.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5f828f0a78938c57e236ef54ae796442\transformed\tensorflow-lite-task-vision-0.4.4\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\20dc5605eea179eed7aec48a69df522e\transformed\tensorflow-lite-gpu-2.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\7799efc656b2ab8ef560d60b4d4342a7\transformed\tensorflow-lite-gpu-delegate-plugin-0.4.4\AndroidManifest.xml:2:1-6:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b48c8abbff25124cc6869d003ed37006\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6a3c0592f4df14550a943cb79f65532d\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\dbff5cf957d451e3de3ddb90ffb42646\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5a328edc25dd7065f4fc39c40d3d24bc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\609e10e4abff8cef47f378fa2935c3e2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\c675e25aeca8fade8d88ee19b7f65a34\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\61f70e21b3b88e72233afce70c3cb815\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b9275ec32a5ae45e4963b882a587ecf3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\d8604c00476cc912f69fd19ff1299973\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a7a35853218bed8e3b410186e1bdc703\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1e8f9939608d999b1c5c79b142cfaf7a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8e5fa63e97689748315db35158dca8cd\transformed\core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\d8a23a452ec155ec6f0981035daff2bf\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f58f770449964c4c4c8b8e72d63c31a4\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a40611e62674554aef9632415bf61ac5\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0aa992cf16d0c63bdd51768ec12fa03a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f9c58690186dd4a5b429cb8064d59ac6\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\da5a052a013f0a5678471427ae71bf5b\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9fa9d45f3e0781a088b96697c9dde35b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\da69d1baa12ecb5665d0e683c8561e74\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\459a5ffc76c1e3baec4dd7b644172930\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\64f0e3ec260ca0bdadd26b42711dcabb\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\983d0090560366310d854fb357e6addc\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\eef9132df32d9a2d30bccf76475f96cf\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2abd10609de5173a82ba57e1a1f3b6f8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\80c858b6e06f2c89af39b25e58de1c1b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9bcfb0062549032ce56a0c970fa72e13\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\434807cc57bf12fc53016d4c07847979\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\571853d7f6fbfa6f488ca49df2b1fad5\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f09ad3166dda436e449f808e896e8cee\transformed\tensorflow-lite-api-2.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8d817701236954df92bce4ea02b03e5c\transformed\tensorflow-lite-task-base-0.4.4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fa2219e020a17eb741a3c625bf3d4891\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:5:5-63
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:8:5-40
+	dist:instant
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:8:18-37
+uses-feature#android.hardware.camera
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:11:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:14:22-62
+application
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:16:5-47:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\db8214b548d476c87c10855c62528893\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\db8214b548d476c87c10855c62528893\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1d1a5ffcf115b923a225d18854943eef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1d1a5ffcf115b923a225d18854943eef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:23:5-34:19
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\243ad0090f9e85671be8f5d9db612ea5\transformed\tensorflow-lite-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\243ad0090f9e85671be8f5d9db612ea5\transformed\tensorflow-lite-2.12.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\20dc5605eea179eed7aec48a69df522e\transformed\tensorflow-lite-gpu-2.13.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\20dc5605eea179eed7aec48a69df522e\transformed\tensorflow-lite-gpu-2.13.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\7799efc656b2ab8ef560d60b4d4342a7\transformed\tensorflow-lite-gpu-delegate-plugin-0.4.4\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\7799efc656b2ab8ef560d60b4d4342a7\transformed\tensorflow-lite-gpu-delegate-plugin-0.4.4\AndroidManifest.xml:4:4-5:18
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0aa992cf16d0c63bdd51768ec12fa03a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0aa992cf16d0c63bdd51768ec12fa03a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f09ad3166dda436e449f808e896e8cee\transformed\tensorflow-lite-api-2.13.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f09ad3166dda436e449f808e896e8cee\transformed\tensorflow-lite-api-2.13.0\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8d817701236954df92bce4ea02b03e5c\transformed\tensorflow-lite-task-base-0.4.4\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8d817701236954df92bce4ea02b03e5c\transformed\tensorflow-lite-task-base-0.4.4\AndroidManifest.xml:4:4-5:18
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fa2219e020a17eb741a3c625bf3d4891\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fa2219e020a17eb741a3c625bf3d4891\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:19:9-41
+	tools:ignore
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:23:9-35
+	android:roundIcon
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:17:9-35
+	android:taskAffinity
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:22:9-32
+activity#org.tensorflow.lite.examples.imageclassification.MainActivityNew
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:24:9-45:20
+	android:clearTaskOnLaunch
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:26:13-45
+	android:exported
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:28:13-36
+	android:resizeableActivity
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:29:13-46
+	android:rotationAnimation
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:27:13-91
+	tools:targetApi
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:32:13-32
+	android:theme
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:25:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#android.notch_support
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:43:17-53
+activity#org.tensorflow.lite.examples.imageclassification.newApp.MainPage
+ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:46:9-52
+	android:name
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:46:19-50
+uses-sdk
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a2519193bc86110df1bbd41654496322\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a2519193bc86110df1bbd41654496322\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b92bc90cd71f6edf7dc17f7ed3a543d2\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b92bc90cd71f6edf7dc17f7ed3a543d2\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\e9ea3a64603d36740c2999c7666273b6\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\e9ea3a64603d36740c2999c7666273b6\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\c0a01d767ff960ced39158512c4d0300\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\c0a01d767ff960ced39158512c4d0300\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8bfed56ec7203a99f75358fc7d21444a\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8bfed56ec7203a99f75358fc7d21444a\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f5c005035bd1022babf8cd1b47d577d0\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f5c005035bd1022babf8cd1b47d577d0\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9b3f044110935d4a3de225dd29810ab4\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9b3f044110935d4a3de225dd29810ab4\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\078df766e4172a34903a36313c0b6d32\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\078df766e4172a34903a36313c0b6d32\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\de3001166819ef545adf518f26e8a4ca\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\de3001166819ef545adf518f26e8a4ca\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\e24cfe36a748683966f9b87f47ae7f74\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\e24cfe36a748683966f9b87f47ae7f74\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\93e987abbe0f3ba5d1bce4ab7ff22673\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\93e987abbe0f3ba5d1bce4ab7ff22673\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f102fe3b21260b5ade974f4988fcdfbd\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f102fe3b21260b5ade974f4988fcdfbd\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\7e16e120d09d54e709fff9f2d1eeb410\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\7e16e120d09d54e709fff9f2d1eeb410\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9c9ad19a939462c3f80fe16ca3295264\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9c9ad19a939462c3f80fe16ca3295264\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\db8214b548d476c87c10855c62528893\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\db8214b548d476c87c10855c62528893\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1d1a5ffcf115b923a225d18854943eef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1d1a5ffcf115b923a225d18854943eef\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2b774add894dd27cbb56761e259983ad\transformed\camera-view-1.2.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2b774add894dd27cbb56761e259983ad\transformed\camera-view-1.2.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\4c78174903e8184605b153ccc79429cb\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\4c78174903e8184605b153ccc79429cb\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\65a3bc091293069031807520494fc44f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\65a3bc091293069031807520494fc44f\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9d09eed98cab1fd305d17be5c35db03f\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9d09eed98cab1fd305d17be5c35db03f\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\ff0af6f7f4f49c12db29dd3235eb3e45\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\ff0af6f7f4f49c12db29dd3235eb3e45\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b4e68d38005540b18850b6f7e49545f9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b4e68d38005540b18850b6f7e49545f9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\def9b1cc6fa734bcaf32f6489708c642\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\def9b1cc6fa734bcaf32f6489708c642\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\418fc04fed6cff081365da5c20107a8a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\418fc04fed6cff081365da5c20107a8a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\ba57270ac1f25ff87146b710306267b9\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\ba57270ac1f25ff87146b710306267b9\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fe795e1c12ac6b8b72689b80f5c5038f\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fe795e1c12ac6b8b72689b80f5c5038f\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0b44d5b4d7f302f9532e138f58cea40a\transformed\camera-lifecycle-1.2.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0b44d5b4d7f302f9532e138f58cea40a\transformed\camera-lifecycle-1.2.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:21:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\243ad0090f9e85671be8f5d9db612ea5\transformed\tensorflow-lite-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.12.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\243ad0090f9e85671be8f5d9db612ea5\transformed\tensorflow-lite-2.12.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5f828f0a78938c57e236ef54ae796442\transformed\tensorflow-lite-task-vision-0.4.4\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5f828f0a78938c57e236ef54ae796442\transformed\tensorflow-lite-task-vision-0.4.4\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\20dc5605eea179eed7aec48a69df522e\transformed\tensorflow-lite-gpu-2.13.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\20dc5605eea179eed7aec48a69df522e\transformed\tensorflow-lite-gpu-2.13.0\AndroidManifest.xml:6:5-7:38
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b48c8abbff25124cc6869d003ed37006\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b48c8abbff25124cc6869d003ed37006\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6a3c0592f4df14550a943cb79f65532d\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6a3c0592f4df14550a943cb79f65532d\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\dbff5cf957d451e3de3ddb90ffb42646\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\dbff5cf957d451e3de3ddb90ffb42646\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5a328edc25dd7065f4fc39c40d3d24bc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5a328edc25dd7065f4fc39c40d3d24bc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\609e10e4abff8cef47f378fa2935c3e2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\609e10e4abff8cef47f378fa2935c3e2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\c675e25aeca8fade8d88ee19b7f65a34\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\c675e25aeca8fade8d88ee19b7f65a34\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\61f70e21b3b88e72233afce70c3cb815\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\61f70e21b3b88e72233afce70c3cb815\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b9275ec32a5ae45e4963b882a587ecf3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\b9275ec32a5ae45e4963b882a587ecf3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\d8604c00476cc912f69fd19ff1299973\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\d8604c00476cc912f69fd19ff1299973\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a7a35853218bed8e3b410186e1bdc703\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a7a35853218bed8e3b410186e1bdc703\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1e8f9939608d999b1c5c79b142cfaf7a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\1e8f9939608d999b1c5c79b142cfaf7a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8e5fa63e97689748315db35158dca8cd\transformed\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\8e5fa63e97689748315db35158dca8cd\transformed\core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\d8a23a452ec155ec6f0981035daff2bf\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\d8a23a452ec155ec6f0981035daff2bf\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f58f770449964c4c4c8b8e72d63c31a4\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f58f770449964c4c4c8b8e72d63c31a4\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a40611e62674554aef9632415bf61ac5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\a40611e62674554aef9632415bf61ac5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0aa992cf16d0c63bdd51768ec12fa03a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0aa992cf16d0c63bdd51768ec12fa03a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f9c58690186dd4a5b429cb8064d59ac6\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f9c58690186dd4a5b429cb8064d59ac6\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\da5a052a013f0a5678471427ae71bf5b\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\da5a052a013f0a5678471427ae71bf5b\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9fa9d45f3e0781a088b96697c9dde35b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9fa9d45f3e0781a088b96697c9dde35b\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\da69d1baa12ecb5665d0e683c8561e74\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\da69d1baa12ecb5665d0e683c8561e74\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\459a5ffc76c1e3baec4dd7b644172930\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\459a5ffc76c1e3baec4dd7b644172930\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\64f0e3ec260ca0bdadd26b42711dcabb\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\64f0e3ec260ca0bdadd26b42711dcabb\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\983d0090560366310d854fb357e6addc\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\983d0090560366310d854fb357e6addc\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\eef9132df32d9a2d30bccf76475f96cf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\eef9132df32d9a2d30bccf76475f96cf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2abd10609de5173a82ba57e1a1f3b6f8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2abd10609de5173a82ba57e1a1f3b6f8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\80c858b6e06f2c89af39b25e58de1c1b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\80c858b6e06f2c89af39b25e58de1c1b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9bcfb0062549032ce56a0c970fa72e13\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\9bcfb0062549032ce56a0c970fa72e13\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\434807cc57bf12fc53016d4c07847979\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\434807cc57bf12fc53016d4c07847979\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\571853d7f6fbfa6f488ca49df2b1fad5\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Ture Wramner\.gradle\caches\transforms-3\571853d7f6fbfa6f488ca49df2b1fad5\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f09ad3166dda436e449f808e896e8cee\transformed\tensorflow-lite-api-2.13.0\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.13.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f09ad3166dda436e449f808e896e8cee\transformed\tensorflow-lite-api-2.13.0\AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fa2219e020a17eb741a3c625bf3d4891\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Ture Wramner\.gradle\caches\transforms-3\fa2219e020a17eb741a3c625bf3d4891\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		ADDED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+		INJECTED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\2cf6944b648bbc71b266b5cd2cbd8436\transformed\camera-core-1.2.0-alpha04\AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:31:17-103
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:2:1-49:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fa9be87f6403aae2a55ad046b579856\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

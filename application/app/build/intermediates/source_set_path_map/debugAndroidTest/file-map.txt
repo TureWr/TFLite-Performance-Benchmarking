@@ -1,0 +1,7 @@
+org.tensorflow.lite.examples.imageclassification.test.app-androidTest-0 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\build\generated\res\resValues\androidTest\debug
+org.tensorflow.lite.examples.imageclassification.test.app-androidTest-1 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\build\generated\res\rs\androidTest\debug
+org.tensorflow.lite.examples.imageclassification.test.app-mergeDebugAndroidTestResources-2 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.tensorflow.lite.examples.imageclassification.test.app-mergeDebugAndroidTestResources-3 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.tensorflow.lite.examples.imageclassification.test.app-merged_res-4 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\build\intermediates\merged_res\debugAndroidTest
+org.tensorflow.lite.examples.imageclassification.test.app-androidTest-5 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\src\androidTest\res
+org.tensorflow.lite.examples.imageclassification.test.app-androidTestDebug-6 C:\skola\summer_of_code\examples\lite\examples\image_classification\android_java\app\src\androidTestDebug\res

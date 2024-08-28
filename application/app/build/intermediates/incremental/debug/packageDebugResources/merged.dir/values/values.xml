@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delegate_spinner_titles">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string-array name="models_spinner_titles">
+        <item>Mobilenet V2</item>
+
+    </string-array>
+    <color name="bottom_sheet_background">#EEEEEE</color>
+    <color name="bottom_sheet_text_color">@android:color/black</color>
+    <color name="bounding_box_color">#FF6F00</color>
+    <color name="icActive">#FFFFFFFF</color>
+    <color name="icFocused">#DDFFFFFF</color>
+    <color name="icPressed">#AAFFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="toolbar_background">#EEEEEE</color>
+    <dimen name="bottom_sheet_control_btn_size">48dp</dimen>
+    <dimen name="bottom_sheet_control_text_side_margin">10dp</dimen>
+    <dimen name="bottom_sheet_default_row_margin">16dp</dimen>
+    <dimen name="bottom_sheet_padding">16dp</dimen>
+    <dimen name="bottom_sheet_peek_height">50dp</dimen>
+    <dimen name="bottom_sheet_seperate_results_line">1dp</dimen>
+    <dimen name="bottom_sheet_spinner_delegate_min_width">160dp</dimen>
+    <dimen name="bottom_sheet_spinner_model_min_width">240dp</dimen>
+    <dimen name="bottom_sheet_text_size">20sp</dimen>
+    <dimen name="round_button_medium">64dp</dimen>
+    <dimen name="stroke_small">4dp</dimen>
+    <integer name="bottom_sheet_control_text_min_ems">3</integer>
+    <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
+    <string name="app_name">TFLite Benchmarking App</string>
+    <string name="label_delegate">Delegate</string>
+    <string name="label_models">ML Model</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+    <style name="BottomSheetSpinnerItemStyle" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:textSize">@dimen/bottom_sheet_text_size</item>
+    </style>
+</resources>

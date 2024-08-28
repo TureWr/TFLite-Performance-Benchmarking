@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:dist="http://schemas.android.com/apk/distribution"
+4    package="org.tensorflow.lite.examples.imageclassification"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml
+11
+12    <!-- Enable instant app support -->
+13    <dist:module dist:instant="true" />
+13-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:8:5-40
+13-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:8:18-37
+14
+15    <!-- Declare features -->
+16    <uses-feature android:name="android.hardware.camera" />
+16-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:11:5-60
+16-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:11:19-57
+17
+18    <!-- Declare permissions -->
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:14:5-65
+19-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:14:22-62
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23
+24    <application
+24-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:16:5-47:19
+25        android:allowBackup="true"
+25-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:17:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.8.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\53d04cbaa12baf6b57d9d9d9f8a4edc8\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:18:9-43
+30        android:label="@string/app_name"
+30-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:19:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:20:9-54
+32        android:supportsRtl="true"
+32-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:21:9-35
+33        android:taskAffinity=""
+33-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:22:9-32
+34        android:testOnly="true" >
+35        <activity
+35-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:24:9-45:20
+36            android:name="org.tensorflow.lite.examples.imageclassification.MainActivityNew"
+36-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:25:13-44
+37            android:clearTaskOnLaunch="true"
+37-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:26:13-45
+38            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
+38-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:27:13-91
+39            android:exported="true"
+39-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:28:13-36
+40            android:resizeableActivity="true"
+40-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:29:13-46
+41            android:rotationAnimation="seamless"
+41-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:30:13-49
+42            android:theme="@style/AppTheme" >
+42-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:31:13-44
+43
+44            <!-- Main app intent filter -->
+45            <intent-filter>
+45-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:35:13-39:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:36:17-69
+46-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:36:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:38:17-77
+48-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:38:27-74
+49            </intent-filter>
+50
+51            <!-- Declare notch support -->
+52            <meta-data
+52-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:42:13-44:40
+53                android:name="android.notch_support"
+53-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:43:17-53
+54                android:value="true" />
+54-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:44:17-37
+55        </activity>
+56        <activity android:name="org.tensorflow.lite.examples.imageclassification.newApp.MainPage" />
+56-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:46:9-52
+56-->C:\skola\summer_of_code\soc2024edgeTPU\application\app\src\main\AndroidManifest.xml:46:19-50
+57
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+59            android:name="androidx.window.extensions"
+59-->[androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+61        <uses-library
+61-->[androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+62            android:name="androidx.window.sidecar"
+62-->[androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+63            android:required="false" />
+63-->[androidx.window:window:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\f477f9da9ff517ee4a5dfea2d246ea6d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+64
+65        <service
+65-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:24:9-33:19
+66            android:name="androidx.camera.core.impl.MetadataHolderService"
+66-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:25:13-75
+67            android:enabled="false"
+67-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:26:13-36
+68            android:exported="false" >
+68-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:27:13-37
+69            <meta-data
+69-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:30:13-32:89
+70                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+70-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:31:17-103
+71                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+71-->[androidx.camera:camera-camera2:1.2.0-alpha04] C:\Users\Ture Wramner\.gradle\caches\transforms-3\5fdb273efb4d0408a60f4fa8fef320c3\transformed\camera-camera2-1.2.0-alpha04\AndroidManifest.xml:32:17-86
+72        </service>
+73
+74        <provider
+74-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+75            android:name="androidx.startup.InitializationProvider"
+75-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+76            android:authorities="org.tensorflow.lite.examples.imageclassification.androidx-startup"
+76-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+77            android:exported="false" >
+77-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+78            <meta-data
+78-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+79                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+80                android:value="androidx.startup" />
+80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\0c60612d6809559a2952a877b8ee0fd2\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+81            <meta-data
+81-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+82                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+82-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+83                android:value="androidx.startup" />
+83-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Ture Wramner\.gradle\caches\transforms-3\6cf968507ea9f19d9c1f6f812a6e9755\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+84        </provider>
+85    </application>
+86
+87</manifest>

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-46:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ture Wramner\\.gradle\\caches\\transforms-3\\4c78174903e8184605b153ccc79429cb\\transformed\\appcompat-1.4.2\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ture Wramner\\.gradle\\caches\\transforms-3\\53d04cbaa12baf6b57d9d9d9f8a4edc8\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
