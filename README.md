@@ -138,6 +138,19 @@ The model will be saved in the folder `anomaly_detection/src/models`.
 
 ## Discussion & Future Work
 
+
+| Objects achived | Description |
+|---|---
+ | Application | Created an application that can take a TfLite model and run on mobile GPU and CPU. |
+|Image Classification | Run MobileNetV2 benchmark on TPU, GPU, CPU as well as on the application. |
+ | Anomaly Detection | Train and run anomaly detection with similar result as linked repo. |
+ 
+
+ | Future Work | Description |
+ |---|---|
+ |Convert Tensorflow model to TfLite | Anomaly detection model needs to be saved as a Tensorflow Lite for it to be able to run on the application. Investigate what layers in the model that needs modification for a conversion.|
+ | PyTorch for mobile GPU | Investigate if there is more support for running on mobile GPU. |
+
 ### PyTorch & GPU
 
 Throughout this project, we have mainly used TensorFlow models to maintain compatibility with GPUs on Android devices. PyTorch Mobile has not had the same support for running on mobile GPUs. However, there seem to exist prototypes for running on Android GPUs that might be interesting to investigate in the future.
